@@ -15,7 +15,8 @@
 ---
 - 📫 How to reach me: alexander@activcount.ca
 
-<h2>Fun IoT Gadgets</h2>
+<h2>Setting Up Network Frontend</h2>
+<h3>Fun IoT Gadgets</h3>
 
 <!-- ### Hi there 👋
 
