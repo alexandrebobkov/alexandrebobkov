@@ -5,6 +5,9 @@
   <a href="[Alexander B](https://activcount.ca)">
     <img src="https://img.shields.io/badge/GoogleChrome-orange?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
   </a>
+  <a href="[Alexander B](https://coding.activcount.ca)">
+    <img src="https://img.shields.io/badge/Gitea-green?style=for-the-badge&logo=gitea&logoColor=white" alt="Website"/>
+  </a>
 </div>
 
 - 📫 How to reach me: alexander@activcount.ca
