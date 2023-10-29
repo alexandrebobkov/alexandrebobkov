@@ -1,4 +1,12 @@
-### Hi there 👋
+<div id="badges" align="center">
+  <a href="[Alexander B](https://www.linkedin.com/in/alexandrebobkov/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+- 📫 How to reach me: alexander@activcount.ca
+
+<!-- ### Hi there 👋
 
 <!--
 **alexandrebobkov/alexandrebobkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
