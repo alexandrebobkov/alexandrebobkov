@@ -1,11 +1,11 @@
 <div id="badges" align="center">
-  <a href="[Alexander B](https://www.linkedin.com/in/alexandrebobkov/)">
+  <a href="https://www.linkedin.com/in/alexandrebobkov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[Alexander B](https://activcount.ca)">
+  <a href="https://activcount.ca">
     <img src="https://img.shields.io/badge/GoogleChrome-orange?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
   </a>
-  <a href="[Alexander B](https://coding.activcount.ca)">
+  <a href="https://coding.activcount.ca">
     <img src="https://img.shields.io/badge/Gitea-green?style=for-the-badge&logo=gitea&logoColor=white" alt="Website"/>
   </a>
 </div>
