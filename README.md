@@ -14,7 +14,7 @@
 
 ---
 - 📫 How to reach me: alexander@activcount.ca
-
+<h2>Synergy of Office Networks</h2>
 <h2>Setting Up Office Network Frontend</h2>
 <h3>Fun IoT Gadgets</h3>
 
