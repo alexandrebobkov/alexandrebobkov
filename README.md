@@ -15,7 +15,7 @@
 ---
 - 📫 How to reach me: alexander@activcount.ca
 
-- <h2 align="center">Fun IoT Gadgets</h2>
+<h2>Fun IoT Gadgets</h2>
 
 <!-- ### Hi there 👋
 
