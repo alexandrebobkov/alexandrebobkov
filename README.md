@@ -12,6 +12,7 @@
   </a>
 </div>
 
+---
 - 📫 How to reach me: alexander@activcount.ca
 
 <!-- ### Hi there 👋
