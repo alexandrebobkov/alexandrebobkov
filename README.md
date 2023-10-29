@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://activcount.ca">
-    <img src="https://img.shields.io/badge/GoogleChrome-orange?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/web-orange?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
   </a>
   <a href="https://coding.activcount.info/">
     <img src="https://img.shields.io/badge/Gitea-green?style=for-the-badge&logo=gitea&logoColor=white" alt="Website"/>
