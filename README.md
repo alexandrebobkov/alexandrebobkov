@@ -15,7 +15,7 @@
 ---
 - 📫 Shoot me e-mail at: alexander@activcount.ca
 <h2>Synergy of Office Networks</h2>
-<i>When devices that make office network just work in sync ... that's down to well planned network.</i>
+<i>When devices that make office network just work in sync ... that's down to a well planned network.</i>
 <h2>Setting Up Office Network Frontend</h2>
 <h3>Fun IoT Gadgets</h3>
 
