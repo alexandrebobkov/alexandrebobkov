@@ -15,8 +15,10 @@
 ---
 - 📫 Shoot me e-mail at: alexander@activcount.ca
 <h2>Synergy of Office Networks</h2>
-<i>When devices that make office network just work in sync ... that's down to a well planned network.</i>
-<img src="https://github.com/alexandrebobkov/alexandrebobkov/blob/main/assets/bot_happy.png" alt="happy bot"/>
+  <i>When devices that make office network just work in sync ... that's down to a well planned network.</i>
+  <div align="right">
+    <img src="https://github.com/alexandrebobkov/alexandrebobkov/blob/main/assets/bot_happy.png" alt="happy bot"/>
+  </div>
 <h2>Setting Up Office Network Frontend</h2>
 <h3>Fun IoT Gadgets</h3>
 
