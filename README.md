@@ -21,9 +21,13 @@
   </div>
 <h2>Setting Up Office Network Frontend</h2>
 <h2>Setting Up Network Backend</h2>
+  <div align="center">
+    <img src="https://github.com/alexandrebobkov/alexandrebobkov/blob/main/assets/network-diagram-001.png" alt="network diagram"/>
+  </div>
 <h3>Fun IoT Gadgets</h3>
 
 <!-- ### Hi there 👋
+assets/network-diagram-001.png
 
 <!--
 **alexandrebobkov/alexandrebobkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
