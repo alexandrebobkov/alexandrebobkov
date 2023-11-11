@@ -13,6 +13,8 @@
 </div>
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/Windows-white?style=for-the-badge&logo=windows10&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Excel-white?style=for-the-badge&logo=microsoftexcel&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Access-white?style=for-the-badge&logo=microsoftaccess&logoColor=blue"/>
   <img src="https://img.shields.io/badge/Ubuntu-white?style=for-the-badge&logo=ubuntu&logoColor=blue"/>
   <img src="https://img.shields.io/badge/Debian-white?style=for-the-badge&logo=debian&logoColor=blue"/>
   <img src="https://img.shields.io/badge/ArchLinux-white?style=for-the-badge&logo=archlinux&logoColor=blue"/>
