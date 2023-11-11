@@ -1,13 +1,13 @@
 <h1 align="center">COMPETITIVE EDGE OF ACCOUNTING & IT</h1>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/alexandrebobkov/">
+  <a href="https://www.linkedin.com/in/alexandrebobkov/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://activcount.ca">
+  <a href="https://activcount.ca" target="_blank">
     <img src="https://img.shields.io/badge/web-orange?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
   </a>
-  <a href="https://coding.activcount.info/">
+  <a href="https://coding.activcount.info/" target="_blank">
     <img src="https://img.shields.io/badge/Gitea-green?style=for-the-badge&logo=gitea&logoColor=white" alt="Website"/>
   </a>
 </div>
