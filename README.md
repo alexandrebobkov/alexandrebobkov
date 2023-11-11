@@ -16,24 +16,27 @@
 - 📫 Shoot me e-mail at: alexander@activcount.ca
 <h2>Synergy of Office Networks</h2>
   <i>When devices that make office network just work in sync ... that's down to a well planned network.</i>
-  <div align="left">
-     <h3>Small Office - Home Office Networks</h3>
+  <div align="left" style="display:inline-block; float:left;">
+    <h3>Small Office - Home Office Networks</h3>
     <table>
       <tr>
         <th>Office Network</th>
+        <th>Tunnel</th>
         <th>Home Network</th>
       </tr>
       <tr>
-        <th>172.168.0.1/24</th>
-        <th>192.168.0.1/24</th>
+        <th><p>172.168.0.1/24</p></th>
+        <th rowspan="3">10.0.0.0/24</th>
+        <th><p>192.168.0.1/24</p></th>
       </tr>
+      <tr>
+        <th><p>DHCP: 172.168.0.100 - .150</p></th>
+        <th><p>DHCP: 192.168.0.50 - .250</p></th>
+      </tr>
+      <caption>IP Plan</caption>
     </table>
   </div>
-  <div align="right">
-    <img src="https://github.com/alexandrebobkov/alexandrebobkov/blob/main/assets/bot_happy.png" alt="happy bot"/>
-  </div>
-  
-  
+
 <h2>Setting Up Office Network Frontend</h2>
 <h2>Setting Up Network Backend</h2>
   <div align="center">
