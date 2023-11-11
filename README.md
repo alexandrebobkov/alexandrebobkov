@@ -13,12 +13,22 @@
 </div>
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/Windows-white?style=for-the-badge&logo=windows10&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Ubuntu?style=for-the-badge&logo=ubuntu&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Debian?style=for-the-badge&logo=debian&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Ubuntu-white?style=for-the-badge&logo=ubuntu&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Debian-white?style=for-the-badge&logo=debian&logoColor=blue"/>
   <img src="https://img.shields.io/badge/ArchLinux-white?style=for-the-badge&logo=archlinux&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/NetBSD-white?style=for-the-badge&logo=netbsd&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/FreeNAS-white?style=for-the-badge&logo=freenas&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/GNUBash-white?style=for-the-badge&logo=gnubash&logoColor=blue"/>
   <img src="https://img.shields.io/badge/Grafana-white?style=for-the-badge&logo=grafana&logoColor=blue"/>
   <img src="https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=blue"/>
   <img src="https://img.shields.io/badge/Cloudflare-white?style=for-the-badge&logo=cloudflare&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Espressif-white?style=for-the-badge&logo=espressif&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/NodeRed-white?style=for-the-badge&logo=nodered&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/VirtualBox-white?style=for-the-badge&logo=virtualbox&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/VisualCode-white?style=for-the-badge&logo=visualstudio&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/C-white?style=for-the-badge&logo=c&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/C++-white?style=for-the-badge&logo=cplusplus&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=blue"/>
 </div>
 
 ---
