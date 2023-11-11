@@ -36,7 +36,7 @@
 ---
 -📫 Shoot me e-mail at: alexander@activcount.ca
 
-<h2>Synergy of Office Networks</h2>
+<h2>Synergy of Office Networks VPN</h2>
   <i>When devices that make office network just work in sync ... that's down to a well planned network.</i>
   <div align="left" style="display:inline-block; float:left;">
     <h3>Small Office - Home Office Networks</h3>
