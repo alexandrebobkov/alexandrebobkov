@@ -44,6 +44,7 @@
   </div>
 <h3>Fun IoT Gadgets</h3>
   <a href="https://github.com/alexandrebobkov/dotfiles_e403sa">Linux config .dotfiles</a>
+  <a href="https://github.com/alexandrebobkov/ESP32-FileServer-ESP-IDF">⚡ESP32 small NAS</a>
 
 <!-- ### Hi there 👋
 assets/network-diagram-001.png
