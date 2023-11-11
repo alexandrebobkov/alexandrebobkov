@@ -11,9 +11,19 @@
     <img src="https://img.shields.io/badge/Gitea-green?style=for-the-badge&logo=gitea&logoColor=white" alt="Website"/>
   </a>
 </div>
+<div id="badges" align="center">
+  <img src="https://img.shields.io/badge/Windows-white?style=for-the-badge&logo=windows10&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Ubuntu?style=for-the-badge&logo=ubuntu&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Debian?style=for-the-badge&logo=debian&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/ArchLinux-white?style=for-the-badge&logo=archlinux&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Grafana-white?style=for-the-badge&logo=grafana&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Cloudflare-white?style=for-the-badge&logo=cloudflare&logoColor=blue"/>
+</div>
 
 ---
-- 📫 Shoot me e-mail at: alexander@activcount.ca
+-📫 Shoot me e-mail at: alexander@activcount.ca
+
 <h2>Synergy of Office Networks</h2>
   <i>When devices that make office network just work in sync ... that's down to a well planned network.</i>
   <div align="left" style="display:inline-block; float:left;">
