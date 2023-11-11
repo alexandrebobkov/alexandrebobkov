@@ -43,6 +43,7 @@
     <img src="https://github.com/alexandrebobkov/alexandrebobkov/blob/main/assets/network-diagram-001.png" alt="network diagram"/>
   </div>
 <h3>Fun IoT Gadgets</h3>
+  <a href="https://github.com/alexandrebobkov/dotfiles_e403sa">Linux config .dotfiles</a>
 
 <!-- ### Hi there 👋
 assets/network-diagram-001.png
