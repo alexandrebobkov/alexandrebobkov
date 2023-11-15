@@ -13,7 +13,7 @@
 
 #### WORK EXPERIENCE
 ##### CEGEP Professor, Electronics Program		Jan 2023 - Present
-CEGEP Heritage College		Gatineau, QC
+CEGEP Heritage College, Gatineau (QC)
 - teaching diversified mix of students
 - keep course material current to match the latest trends and technologies
 - updated course outlines
@@ -24,7 +24,7 @@ CEGEP Heritage College		Gatineau, QC
 
 
 ##### Accountant / Controller		Aug 2020 - Jul 2023
-United Edge Structural Components	Smiths Falls, ON
+United Edge Structural Components, Smiths Falls (ON)
 - compiled financial reports on a weekly basis for a decision-making purposes
 - presented operating highlights to a General Manager
 - provided advice on managing finances and steering operations goals 
@@ -59,65 +59,75 @@ United Edge Structural Components	Smiths Falls, ON
 - employee relations
 
 ##### Full-charge Bookkeeper		2013 - 2014
-Social Research and Demonstration Corporation	Ottawa, ON
+Social Research and Demonstration Corporation, Ottawa (ON)
 - Increased the efficiency of posting source documents process
 - Brought consistency in the referencing, and posting of the journal entries
 - Maintained the documents filing system in an organized manner
 - Conscientiously fulfilled the assigned tasks during the work overload
 
 ##### Assistant to Volunteers Coordinator	2015 - 2016
-SFUO Bike Coop Vélo     Ottawa, ON
+SFUO Bike Coop Vélo, Ottawa (ON)
 - Boosted volunteers satisfaction by rationalizing the record-keeping procedures
 - Loyally worked hard to improve the quality of SFUO Bike Coop service
 - Introduced and implemented the stewardship of bicycle parts inventory
 - Increased volunteers motivation by officially recognizing their contributions
 
 ##### General Ledger Accountant	2007 - 2015
-Self-employed   Ottawa, ON
+Self-employed, Ottawa (ON)
 - Worked hard to ensure clients comply with income tax reporting requirements
 - Helped business owners assess business performance by preparing managerial statements
 - Reduced own operating costs by implementing the Open Source software 
 
 #### COMMUNITY INVOLVEMENT
 ##### Volunteer to Coordinator	May 2015 - August 2015
-SFUO Bike Coop Vélo Ottawa, ON
+SFUO Bike Coop Vélo, Ottawa (ON)
 - Improved the quality and reliability of delivered services
 
 ##### Tax Clinic Volunteer		April 2013
-Somerset West Community Health Centre   Ottawa, ON
+Somerset West Community Health Centre, Ottawa (ON)
 - Helped individuals prepare tax returns in order for them to obtain social assistance
 
 #### EDUCATION
-##### Bachelor of Social Science: 
-Major in Public Administration
-University of Ottawa, Ottawa ON	2014 - 2016
+##### Master's in Business Management 2016 - 2017
+John Molson School of Business
+Concordia University, Montreal (QC)
+- Corporate Finances and operating budgets
+- Human Resources
+
+##### Bachelor of Public Administration, Honors 2014 - 2016
+University of Ottawa, Ottawa (ON)
 - Organization Behaviour: learned principles of using human capital to meet corporate strategy
 - Project Management: obtained practical skills in managing the project in the team environment
 - Ethics and Public Affairs: examined the norms and ethical reasoning in public administration
 
-##### Accounting and Management Technology		2011 - 2013
-Heritage College, Gatinéau QC
+##### Accounting and Management Technology 2011 - 2013
+Heritage College, Gatinéau (QC)
 - Resources Management: studied principles of administering and planning corporate resources
 - Operations Quality: studies techniques for optimizing of, and maximizing the service quality
 Major Projects:
 - Marketing: created advertisement video for hypothetical local accounting office
 - Graduation Project: wrote comprehensive plan for opening the accounting office 
 
-##### Business Administration - Accounting		2004 - 2007
-George Brown College, Toronto ON
+##### Business Administration - Accounting 2004 - 2007
+George Brown College, Toronto (ON)
 - Business Communication: obtained skills in writing the business correspondence 
 - Advanced Accounting: studied GAAP accounting principles in accordance with CICA
 - Taxation: studied Canadian Income Tax Act
 
 #### AWARDS AND ACHIEVEMENTS
-##### Certificate of Appreciation "Lend a Hand" Program	2022
-Canada Revenue Agency
-- Earned for helping individuals in need to obtain social assistance by preparing the income tax returns at the 
+##### Certificate of Appreciation "Lend a Hand" Program	2020-2022
+Free Income Tax and Benefits Clinic, Canada Revenue Agency
+- Prepared basic income tax and benefits returns for qualifying individuals 
 
 Somerset West Community Health Centre
+- Prepared basic income tax and benefits returns for qualifying individuals
 
-##### Dean's Honours List	2004
-George Brown College
+##### Dean's Honours List and Exceptional Academic Performance
+Jogn Molson School of Business
+Concordia University, Montreal (QC)
+- Maintained GPA of A- throughout Master's program
+
+George Brown College, Toronto (ON)
 - Earned for achieving the CGPA of A-	
 
 #### INTERESTS
