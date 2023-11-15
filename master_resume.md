@@ -2,35 +2,41 @@
 ##### (343) 202 - 2043	abobk012@uottawa.ca	
 
 #### COMPETENCIES
-- Monthly bank reconciliation
-- Coding the source documents in accordance with accounting policies
+- Monthly bank account reconciliation
+- Compilation of financial statements
+- Preparation of operating budgets, from 1 year to 5 years
+- Coding the source documents according to the accounting policies
 - Project costing and cost allocation
-- Compilation of financial statements and preparation of budgets
 - End-of-month procedures
-- Strong skills in accounting software (Sage 50 Premium)
-- Proficient with MS Business Office (Word, Excel, Outlook, etc.)
+- Strong skills in accounting software (QuickBooks Online Advanced and Sage 50 Premium)
+- Proficient with Microsoft 365 applications
 
 #### WORK EXPERIENCE
-##### CEGEP Professor		Jan 2023 - Present
-CEGEP Heritage College		Gatineau QC
-- designed and teach classes in a career program
-- building teacher-student relations to foster learning environment
+##### CEGEP Professor, Electronics Program		Jan 2023 - Present
+CEGEP Heritage College		Gatineau, QC
+- teaching diversified mix of students
+- keep course material current to match the latest trends and technologies
+- updated course outlines
+- engage students motivation to foster learning environment
 - treat students with respect and support
 - motivating students to challange themselves when learning new concepts
+- monitor students learning progress to be proactive in ensuring students progess
 
 
-##### Accountant / Controller		Aug 2020 - July 2023
-United Edge Structural Components	Smiths Falls ON
-- interpreting financial reports for projections and decision-making purposes
-- conducting short training session on cash flow planning and budgeting
-- responsible for performing or assisting in the planning, maintenance and execution of accounting operation
-- lead the month-end process ensuring all deadlines are met
-- preparing year-end adjusting journal entries
-- prepare weekly budget/variance report
-- prepare annual budget and monitor progress
-- oversee cash flow and cost control measures: accounts receivable and payable, reconciliations, general ledger entries examination, etc.
-- conduct soft audits of accounting records to ensure fair representation of financial reports
-- tracking of project direct and indirect cost
+##### Accountant / Controller		Aug 2020 - Jul 2023
+United Edge Structural Components	Smiths Falls, ON
+- compiled financial reports on a weekly basis for a decision-making purposes
+- presented operating highlights to a General Manager
+- provided advice on managing finances and steering operations goals 
+- conducted training sessions on cash flow planning
+- planned, maintenaned and executed accounting operations
+- lead the month-end process ensuring all deadlines were met using QuickBooks Online Workpapers module
+- prepared year-end adjusting journal entries
+- prepared weekly budget and variance analysis report
+- monitored progress of meeting annual targets
+- implemented tighter financial controls over accounts receivable and payable
+- conducted soft audits of accounting records to ensure proper documentation and tranperancy
+- tracked project direct and indirect costs using QuickBooks Online Project module
 - preparing project progress and conversion cost reports
 - compiling financial statements
 - implement, set up and maintain accounting sub-systems
@@ -53,32 +59,32 @@ United Edge Structural Components	Smiths Falls ON
 - employee relations
 
 ##### Full-charge Bookkeeper		2013 - 2014
-Social Research and Demonstration Corporation	Ottawa ON
+Social Research and Demonstration Corporation	Ottawa, ON
 - Increased the efficiency of posting source documents process
 - Brought consistency in the referencing, and posting of the journal entries
 - Maintained the documents filing system in an organized manner
 - Conscientiously fulfilled the assigned tasks during the work overload
 
 ##### Assistant to Volunteers Coordinator	2015 - 2016
-SFUO Bike Coop Vélo, Ottawa ON
+SFUO Bike Coop Vélo     Ottawa, ON
 - Boosted volunteers satisfaction by rationalizing the record-keeping procedures
 - Loyally worked hard to improve the quality of SFUO Bike Coop service
 - Introduced and implemented the stewardship of bicycle parts inventory
 - Increased volunteers motivation by officially recognizing their contributions
 
 ##### General Ledger Accountant	2007 - 2015
-Self-employed, Ottawa (Ontario)
+Self-employed   Ottawa, ON
 - Worked hard to ensure clients comply with income tax reporting requirements
 - Helped business owners assess business performance by preparing managerial statements
 - Reduced own operating costs by implementing the Open Source software 
 
 #### COMMUNITY INVOLVEMENT
 ##### Volunteer to Coordinator	May 2015 - August 2015
-SFUO Bike Coop Vélo, Ottawa ON
+SFUO Bike Coop Vélo Ottawa, ON
 - Improved the quality and reliability of delivered services
 
 ##### Tax Clinic Volunteer		April 2013
-Somerset West Community Health Centre, Ottawa ON
+Somerset West Community Health Centre   Ottawa, ON
 - Helped individuals prepare tax returns in order for them to obtain social assistance
 
 #### EDUCATION
@@ -107,6 +113,7 @@ George Brown College, Toronto ON
 ##### Certificate of Appreciation "Lend a Hand" Program	2022
 Canada Revenue Agency
 - Earned for helping individuals in need to obtain social assistance by preparing the income tax returns at the 
+
 Somerset West Community Health Centre
 
 ##### Dean's Honours List	2004
@@ -115,5 +122,5 @@ George Brown College
 
 #### INTERESTS
 - Participating in local swimming competitions
-- Optimization of accounting procedures
-- Linux OS
+- Computer networks and IIoT
+- Financial planning constrained by scarse resources
