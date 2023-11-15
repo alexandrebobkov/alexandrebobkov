@@ -65,6 +65,7 @@
   <div align="center">
     <img src="https://github.com/alexandrebobkov/alexandrebobkov/blob/main/assets/network-diagram-001.png" alt="network diagram"/>
   </div>
+<h2>Post-Setup Network Diagnostics</h2>
 <h3>Fun IoT Gadgets</h3>
 <ul>
   <li><a href="https://github.com/alexandrebobkov/dotfiles_e403sa">Linux config .dotfiles</a></li>
