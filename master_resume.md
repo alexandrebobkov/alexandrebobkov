@@ -1,5 +1,5 @@
 # ALEXANDRE BOBKOV
-##### (343) 202 - 2043	abobk012@uottawa.ca	
+##### (343) 202 - 2043	abobkov@cegep-heritage.qc.ca	
 
 #### COMPETENCIES
 - Monthly bank account reconciliation
