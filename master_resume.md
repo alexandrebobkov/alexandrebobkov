@@ -51,8 +51,8 @@
 
 
 ### WORK EXPERIENCE
-##### Professor, Electronics and Information Technology Program		Jan 2023 - Present
-CEGEP Heritage College, Gatineau (QC)
+#### Professor, Electronics and Information Technology Program		Jan 2023 - Present
+##### CEGEP Heritage College, Gatineau (QC)
 ##### TEACHING
 - teaching first and final year students in Accounting, Electronics and Computer Networks classes
 - ensuring students’ compliance with academic integrity
@@ -67,8 +67,8 @@ CEGEP Heritage College, Gatineau (QC)
 - monitor students learning progress to be proactive in ensuring students progress
 
 
-##### Accountant / Controller		Aug 2020 - Jul 2023
-United Edge Structural Components, Smiths Falls (ON)
+#### Accountant / Controller		Aug 2020 - Jul 2023
+##### United Edge Structural Components, Smiths Falls (ON)
 - compiled financial reports on a weekly basis for a decision-making purposes
 - presented operating highlights to a General Manager
 - provided advice on managing finances and steering operations goals 
@@ -102,21 +102,21 @@ United Edge Structural Components, Smiths Falls (ON)
 - enter and maintain employee data, such as records of employee attendance, sick leave and overtime
 - employee relations
 
-##### Full-charge Bookkeeper		2013 - 2014
-Social Research and Demonstration Corporation, Ottawa (ON)
+#### Full-charge Bookkeeper		2013 - 2014
+##### Social Research and Demonstration Corporation, Ottawa (ON)
 - Increased the efficiency of posting source documents process
 - Brought consistency in the referencing, and posting of the journal entries
 - Maintained the documents filing system in an organized manner
 - Conscientiously fulfilled the assigned tasks during the work overload
 
-##### Assistant to Volunteers Coordinator	2015 - 2016
-SFUO Bike Coop Vélo, Ottawa (ON)
+#### Assistant to Volunteers Coordinator	2015 - 2016
+##### SFUO Bike Coop Vélo, Ottawa (ON)
 - Boosted volunteers satisfaction by rationalizing the record-keeping procedures
 - Loyally worked hard to improve the quality of SFUO Bike Coop service
 - Introduced and implemented the stewardship of bicycle parts inventory
 - Increased volunteers motivation by officially recognizing their contributions
 
-##### General Ledger Accountant	2007 - 2015
+#### General Ledger Accountant	2007 - 2015
 Self-employed, Ottawa (ON)
 - Worked hard to ensure clients comply with income tax reporting requirements
 - Helped business owners assess business performance by preparing managerial statements
