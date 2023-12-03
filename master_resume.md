@@ -12,7 +12,7 @@
 - Proficient with Microsoft 365 applications
 
 ### SKILLS
-##### Communication & Training
+###### Communication & Training
 - good verbal and written communication skills in English (advance) and French (basic)
 - excellent interpersonal, oral and written communication skills
 - new employees training
@@ -20,29 +20,29 @@
 - employee performance steering and evaluation
 - manage multiple details and tasks concurrently in a changing environment
 - able to work effectively in a team environment
-##### Microsoft Office
+###### Microsoft Office
 - advanced knowledge of Word, Excel, Outlook and Access
 - knowledge of accounting software (Sage 50, ACCPAC, QuickBooks Desktop, QuickBooks Online, Xero)
-##### Computer, Network and Operating System
+###### Computer, Network and Operating System
 - comfortable with working with Ubuntu Business Linux, as well as Rocky and Debian
 - intermediate skills in computers network infrastructure, NAS, VLANs, Firewall, and VPNs
 - intermediate experience using Linux for corporate sharing files 
 - managing access to confidential files
 - experience in setting up and configuring NextCloud platform using on-site server
 - intermediate skills in configuration of OPNsense firewall (vLANs, software LANs, VPNs, DHCP, SSL)
-##### Programming and Script languages
+###### Programming and Script languages
 - coding experience in programming languages C and C++
 - intermediate knowledge of HTML, CSS, and MySQL/MariaDB
 - comfortable with configuring and customizing WordPress
 - experience in writing script files for configuring computer systems
-##### Google Workplace Suite
+###### Google Workplace Suite
 - administration of users and cloud storage drives
 - defining access policies for Chromebook OS using Google Enterprise device management
 - set-up and use of Google Analytics to gather information about website visitors
-##### Project Management
+###### Project Management
 - use of flow-charts for visualizing and optimizing existing processes
 - use of GANT charts for scheduling financial resources 
-##### Accounting and Payroll
+###### Accounting and Payroll
 - preparation of cash budgets on a weekly, monthly, and quarterly basis
 - scheduling and allocating financial resources to meet operating objectives
 - bank account reconciliation with large volume of transactions
@@ -52,7 +52,7 @@
 ### WORK EXPERIENCE
 #### Professor, Electronics and Information Technology Program		Jan 2023 - Present
 CEGEP Heritage College, Gatineau (QC)
-##### TEACHING
+###### TEACHING
 - teaching first and final year students in Accounting, Electronics and Computer Networks classes
 - ensuring students’ compliance with academic integrit- teaching diversified mix of students
 - keep course material current to match the latest trends and technologies
@@ -61,7 +61,7 @@ CEGEP Heritage College, Gatineau (QC)
 - treat students with respect and support
 - motivating students to challenge themselves when learning new concepts
 - monitor students learning progress to be proactive in ensuring students progress
-##### PROGRAM REVISION
+###### PROGRAM REVISION
 - assisted with redesigning Computer Networks third-year classes
 
 #### Accountant / Controller		Aug 2020 - Jul 2023
