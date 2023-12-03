@@ -1,7 +1,7 @@
 # ALEXANDRE BOBKOV
 ##### (343) 202 - 2043	abobkov@cegep-heritage.qc.ca	
 
-#### COMPETENCIES
+### COMPETENCIES
 - Monthly bank account reconciliation
 - Compilation of financial statements
 - Preparation of operating budgets, from 1 year to 5 years
@@ -11,7 +11,7 @@
 - Strong skills in accounting software (QuickBooks Online Advanced and Sage 50 Premium)
 - Proficient with Microsoft 365 applications
 
-#### SKILLS
+### SKILLS
 ##### Communication & Training
 - good verbal and written communication skills in English (advance) and French (basic)
 - excellent interpersonal, oral and written communication skills
@@ -50,7 +50,7 @@
 - payroll run, year-end reconciliation, ROE, T4 slips and T4 Summary
 
 
-#### WORK EXPERIENCE
+### WORK EXPERIENCE
 ##### Professor, Electronics and Information Technology Program		Jan 2023 - Present
 CEGEP Heritage College, Gatineau (QC)
 TEACHING
@@ -123,7 +123,7 @@ Self-employed, Ottawa (ON)
 - Helped business owners assess business performance by preparing managerial statements
 - Reduced own operating costs by implementing the Open Source software 
 
-#### COMMUNITY INVOLVEMENT
+### COMMUNITY INVOLVEMENT
 ##### Volunteer to Coordinator	May 2015 - August 2015
 SFUO Bike Coop Vélo, Ottawa (ON)
 - Improved the quality and reliability of delivered services
@@ -132,7 +132,7 @@ SFUO Bike Coop Vélo, Ottawa (ON)
 Somerset West Community Health Centre, Ottawa (ON)
 - Helped individuals prepare tax returns in order for them to obtain social assistance
 
-#### EDUCATION
+### EDUCATION
 ##### Master's in Business Management 2016 - 2017
 John Molson School of Business
 Concordia University, Montreal (QC)
@@ -159,7 +159,7 @@ George Brown College, Toronto (ON)
 - Advanced Accounting: studied GAAP accounting principles in accordance with CICA
 - Taxation: studied Canadian Income Tax Act
 
-#### AWARDS AND ACHIEVEMENTS
+### AWARDS AND ACHIEVEMENTS
 ##### Certificate of Appreciation "Lend a Hand" Program	2020-2022
 Free Income Tax and Benefits Clinic, Canada Revenue Agency
 - Prepared basic income tax and benefits returns for qualifying individuals 
@@ -175,7 +175,7 @@ Concordia University, Montreal (QC)
 George Brown College, Toronto (ON)
 - Earned for achieving the CGPA of A-	
 
-#### INTERESTS
+### INTERESTS
 - Participating in local swimming competitions
 - Computer networks and IIoT
 - Financial planning constrained by scarse resources
