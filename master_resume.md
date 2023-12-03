@@ -52,7 +52,7 @@
 
 ### WORK EXPERIENCE
 #### Professor, Electronics and Information Technology Program		Jan 2023 - Present
-##### CEGEP Heritage College, Gatineau (QC)
+CEGEP Heritage College, Gatineau (QC)
 ##### TEACHING
 - teaching first and final year students in Accounting, Electronics and Computer Networks classes
 - ensuring students’ compliance with academic integrity
@@ -68,7 +68,7 @@
 
 
 #### Accountant / Controller		Aug 2020 - Jul 2023
-##### United Edge Structural Components, Smiths Falls (ON)
+United Edge Structural Components, Smiths Falls (ON)
 - compiled financial reports on a weekly basis for a decision-making purposes
 - presented operating highlights to a General Manager
 - provided advice on managing finances and steering operations goals 
@@ -103,14 +103,14 @@
 - employee relations
 
 #### Full-charge Bookkeeper		2013 - 2014
-##### Social Research and Demonstration Corporation, Ottawa (ON)
+Social Research and Demonstration Corporation, Ottawa (ON)
 - Increased the efficiency of posting source documents process
 - Brought consistency in the referencing, and posting of the journal entries
 - Maintained the documents filing system in an organized manner
 - Conscientiously fulfilled the assigned tasks during the work overload
 
 #### Assistant to Volunteers Coordinator	2015 - 2016
-##### SFUO Bike Coop Vélo, Ottawa (ON)
+SFUO Bike Coop Vélo, Ottawa (ON)
 - Boosted volunteers satisfaction by rationalizing the record-keeping procedures
 - Loyally worked hard to improve the quality of SFUO Bike Coop service
 - Introduced and implemented the stewardship of bicycle parts inventory
