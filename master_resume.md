@@ -54,19 +54,23 @@
 CEGEP Heritage College, Gatineau (QC)
 ##### TEACHING
 - teaching first and final year students in Accounting, Electronics and Computer Networks classes
-- ensuring students’ compliance with academic integrity
-##### PROGRAM REVISION
-- Re-designed Computer Networks third-year classes
-- teaching diversified mix of students
+- ensuring students’ compliance with academic integrit- teaching diversified mix of students
 - keep course material current to match the latest trends and technologies
 - updated course outlines
 - engage students motivation to foster learning environment
 - treat students with respect and support
 - motivating students to challenge themselves when learning new concepts
 - monitor students learning progress to be proactive in ensuring students progress
+##### PROGRAM REVISION
+- assisted with redesigning Computer Networks third-year classes
 
 #### Accountant / Controller		Aug 2020 - Jul 2023
 United Edge Structural Components, Smiths Falls (ON)
+###### BOARD OF DIRECTORS ADVISER
+- advised on the possible uses of operating funds and setting payments priorities
+- interpreting financial reports for projections and decision-making purposes
+- conducting short training session on cash flow planning and budgeting
+
 - compiled financial reports on a weekly basis for a decision-making purposes
 - presented operating highlights to a General Manager
 - provided advice on managing finances and steering operations goals 
