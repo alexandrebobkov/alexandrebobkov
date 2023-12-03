@@ -262,4 +262,4 @@ George Brown College, Toronto (ON)
 ### INTERESTS
 - Participating in local swimming competitions
 - Computer networks and IIoT
-- Financial planning constrained by scarse resources
+- Financial planning constrained by scarce resources
