@@ -64,65 +64,12 @@ CEGEP Heritage College, Gatineau (QC)
 ###### Program Revision
 - assisted with redesigning Computer Networks third-year classes
 
-#### Accountant / Controller		Aug 2020 - Jul 2023
-United Edge Structural Components, Smiths Falls (ON)
-###### Financial Advisor to Board of Directors
-- advised on the possible uses of operating funds and setting payments priorities
-- interpreting financial reports for projections and decision-making purposes
-- conducting short training session on cash flow planning and budgeting
-###### Commercial Banking
-- experience with registering, setting-up and using the commercial banking systems such as Evalon, Square, TelPay and Scotiabank Connect
-###### Accounting, Financial Reporting and Compliance
-- responsible for performing or assisting in the planning, maintenance and execution of accounting operation
-- lead the month-end process ensuring all deadlines are met
-- preparing year-end adjusting journal entries
-- prepare weekly budget/variance report
-- prepare annual budget and monitor progress
-- oversee cash flow and cost control measures: accounts receivable and payable, reconciliations, general ledger entries examination, etc.
-- conduct soft audits of accounting records to ensure fair representation of financial reports
-- tracking of project direct and indirect cost
-- preparing project progress and conversion cost reports
+#### Head Accountant & General Director  Jan 2019 - Present
+Alexander Specialized Accounting Services, Ottawa (ON)
 - compiling financial statements
 - implement, set up and maintain accounting sub-systems
 - develop and maintain internal control procedures
-- supervise office administrative technicians
-- year-end auditing
-- reconcile WSIB, CRA HST and Payroll account transactions with General Ledger entries
-###### Financial Management
-- provide financial and statistical analysis, reports, advice, and recommendations to the Manager on a weekly basis and in a timely and accurate manner
-- develop reporting standards, emphasizing key financial and non-financial metrics to inform decision making
-- validate and analyze project financials
-- evaluate systems and controls to ensure reporting of accurate, complete, and timely financial information that accounts for the project funds
-- conduct finance briefing
-###### Payroll
-- identify and resolve payroll discrepancies
-- enter and maintain employee data, such as records of employee attendance, sick leave and overtime
-- employee relations
-- calculating regular pay and benefit entitlements
-- prepare and verify statements of earnings for employees
-- prepare payroll related filings and supporting documentation, such as T4 slips and ROE
-- process paycheques and source deduction remittances
-- set-up accounting software to comply with payroll procedures and policies
-
-
-
-- compiled financial reports on a weekly basis for a decision-making purposes
-- presented operating highlights to a General Manager
-- provided advice on managing finances and steering operations goals 
-- conducted training sessions on cash flow planning
-- planned, maintained and executed accounting operations
-- lead the month-end process ensuring all deadlines were met using QuickBooks Online Workpapers module
-- prepared year-end adjusting journal entries
-- prepared weekly budget and variance analysis report
-- monitored progress of meeting annual targets
-- implemented tighter financial controls over accounts receivable and payable
-- conducted soft audits of accounting records to ensure proper documentation and transparency
-- tracked project direct and indirect costs using QuickBooks Online Project module
-- preparing project progress and conversion cost reports
-- compiling financial statements
-- implement, set up and maintain accounting sub-systems
-- develop and maintain internal control procedures
-- supervise office administrative technicians
+- supervise office accounting technicians
 - year-end auditing
 - reconcile WSIB, CRA HST and Payroll account transactions with General Ledger entries
 - provide financial and statistical analysis, reports, advice, and recommendations to the Manager on a weekly basis and in a timely and accurate manner
@@ -138,6 +85,53 @@ United Edge Structural Components, Smiths Falls (ON)
 - identify and resolve payroll discrepancies
 - enter and maintain employee data, such as records of employee attendance, sick leave and overtime
 - employee relations
+
+#### Accountant / Controller		Aug 2020 - Jul 2023
+United Edge Structural Components, Smiths Falls (ON)
+###### Financial Advisor to Board of Directors
+- advised on the possible uses of operating funds and setting payments priorities
+- interpreting financial reports for projections and decision-making purposes
+- conducting short training session on cash flow planning and budgeting
+- provided advice on managing finances and steering operations goals 
+- presented operations highlights to a General Manager
+###### Commercial Banking
+- experience with registering, setting-up and using the commercial banking systems such as Evalon, Square, TelPay and Scotiabank Connect
+###### Accounting, Financial Reporting and Compliance
+- responsible for performing or assisting in the planning, maintenance and execution of accounting operation
+- lead the month-end process ensuring all deadlines were met using QuickBooks Online Workpapers module
+- prepared year-end adjusting journal entries
+- prepare annual budget and monitor progress
+- oversee cash flow and cost control measures: accounts receivable and payable, reconciliations, general ledger entries examination, etc.
+- conduct soft audits of accounting records to ensure fair representation of financial reports
+- tracking of project direct and indirect cost
+- preparing project progress and conversion cost reports
+- compiled financial reports on a weekly basis for a decision-making purposes
+- implement, set up and maintain accounting sub-systems
+- develop and maintain internal control procedures
+- supervise office administrative technicians
+- year-end auditing
+- reconcile WSIB, CRA HST and Payroll account transactions with General Ledger entries
+- planned, maintained and executed accounting operations
+###### Financial Management
+- provide financial and statistical analysis, reports, advice, and recommendations to the Manager on a weekly basis and in a timely and accurate manner
+- develop reporting standards, emphasizing key financial and non-financial metrics to inform decision making
+- validate and analyze project financials
+- evaluate systems and controls to ensure reporting of accurate, complete, and timely financial information that accounts for the project funds
+- conducted soft audits of accounting records to ensure proper documentation and transparency
+- prepared weekly budget and variance analysis report
+- prepared project progress and conversion cost reports
+- monitored progress of meeting annual targets
+- implemented tighter financial controls over accounts receivable and payable
+- tracked project direct and indirect costs using QuickBooks Online Project module
+###### Payroll
+- identify and resolve payroll discrepancies
+- enter and maintain employee data, such as records of employee attendance, sick leave and overtime
+- employee relations
+- calculating regular pay and benefit entitlements
+- prepare and verify statements of earnings for employees
+- prepare payroll related filings and supporting documentation, such as T4 slips and ROE
+- process paycheques and source deduction remittances
+- set-up accounting software to comply with payroll procedures and policies
 
 #### Full-charge Bookkeeper		2013 - 2014
 Social Research and Demonstration Corporation, Ottawa (ON)
