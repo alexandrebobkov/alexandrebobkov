@@ -88,6 +88,22 @@ United Edge Structural Components, Smiths Falls (ON)
 - supervise office administrative technicians
 - year-end auditing
 - reconcile WSIB, CRA HST and Payroll account transactions with General Ledger entries
+###### Financial Management
+- provide financial and statistical analysis, reports, advice, and recommendations to the Manager on a weekly basis and in a timely and accurate manner
+- develop reporting standards, emphasizing key financial and non-financial metrics to inform decision making
+- validate and analyze project financials
+- evaluate systems and controls to ensure reporting of accurate, complete, and timely financial information that accounts for the project funds
+- conduct finance briefing
+###### Payroll
+- identify and resolve payroll discrepancies
+- enter and maintain employee data, such as records of employee attendance, sick leave and overtime
+- employee relations
+- calculating regular pay and benefit entitlements
+- prepare and verify statements of earnings for employees
+- prepare payroll related filings and supporting documentation, such as T4 slips and ROE
+- process paycheques and source deduction remittances
+- set-up accounting software to comply with payroll procedures and policies
+
 
 
 - compiled financial reports on a weekly basis for a decision-making purposes
