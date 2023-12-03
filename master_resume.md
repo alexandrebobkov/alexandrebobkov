@@ -66,25 +66,54 @@ CEGEP Heritage College, Gatineau (QC)
 
 #### Head Accountant & General Director  Jan 2019 - Present
 Alexander Specialized Accounting Services, Ottawa (ON)
-- compiling financial statements
+###### Information Technology
+- implementation, configuration and set-up of e-mail and cloud sharing platforms for clients (Google Workplace, Microsoft Share Point, NextCloud)
+- monitoring and maintenance of file storage servers
+- setting up Site-to-Site VPN connection between head office and remote branches
+###### Administration and Human Resources
+- creating job descriptions and job postings for hiring purposes
+- interviewing candidates
+- training volunteers and assistants to perform assigned tasks
+###### Documents Management Systems
+- Adaptation of MS365 SharePoint and OneDrive for optimal documents organization structure
+- Development of custom apps and workflows to reduce repetitive tasks
+###### Accounting Information Systems
+- implementation of accounting systems (Quick Books Online, Sage 50)
+- implementation of Purchase Order process
+- design of accounting policies to match financial control requirements
 - implement, set up and maintain accounting sub-systems
 - develop and maintain internal control procedures
-- supervise office accounting technicians
-- year-end auditing
+###### Corporate Accounting
+- full accounting cycle
+- compiling financial statements
+- accounts reconciliations (bank, suppliers, key shareholders)
+- documentation of business activities with increased transparency and clarity
+- review of accounting entries for accuracy and validity
+- in-depth analysis of account variances
+- compilation of financial statements and management reports
+- preparation of tax filings (Corporate taxes, HST, Source deductions, WSIB)
+- payroll
+- remittance of payroll source deductions
+- preparation of T4 and T4A slips, T4 Summaries and T5018
+- preparation of Corporate tax returns (T2)
+- preparation of personal tax returns (T1 employed and self-employed)
+###### Payroll and Tax Compliance
 - reconcile WSIB, CRA HST and Payroll account transactions with General Ledger entries
-- provide financial and statistical analysis, reports, advice, and recommendations to the Manager on a weekly basis and in a timely and accurate manner
-- develop reporting standards, emphasizing key financial and non-financial metrics to inform decision making
-- validate and analyze project financial progress
-- evaluate systems and controls to ensure reporting of accurate, complete, and timely financial information that accounts for the project funds
-- conduct finance briefing
 - calculating regular pay and benefit entitlements
 - prepare and verify statements of earnings for employees
 - prepare payroll related filings and supporting documentation, such as T4 slips and ROE
 - process paycheques and source deduction remittances
-- set-up accounting software to comply with payroll procedures and policies
-- identify and resolve payroll discrepancies
 - enter and maintain employee data, such as records of employee attendance, sick leave and overtime
-- employee relations
+###### Managerial and Cost Accounting
+- preparation of budgets (sales, production, operations, and master budget)
+- projects job-costing, costs tracking and allocation
+- analysis and optimization of operations
+- evaluate systems and controls to ensure reporting of accurate, complete, and timely financial information that accounts for the project funds
+###### Legal
+- business registrations; sole proprietorships and corporations (Ontario, Quebec and Federal)
+- amendments to Articles of Incorporation
+- corporation winding-up
+- handling and working with client confidential tax files
 
 #### Accountant / Controller		Aug 2020 - Jul 2023
 United Edge Structural Components, Smiths Falls (ON)
