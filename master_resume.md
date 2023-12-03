@@ -11,6 +11,45 @@
 - Strong skills in accounting software (QuickBooks Online Advanced and Sage 50 Premium)
 - Proficient with Microsoft 365 applications
 
+#### SKILLS
+## Communication & Training
+- good verbal and written communication skills in English (advance) and French (basic)
+- excellent interpersonal, oral and written communication skills
+- new employees training
+- training employees on a use of various software platforms
+- employee performance steering and evaluation
+- manage multiple details and tasks concurrently in a changing environment
+- able to work effectively in a team environment
+## Microsoft Office
+- advanced knowledge of Word, Excel, Outlook and Access
+- knowledge of accounting software (Sage 50, ACCPAC, QuickBooks Desktop, QuickBooks Online, Xero)
+## Computer, Network and Operating System
+- comfortable with working with Ubuntu Business Linux, as well as Rocky and Debian
+- intermediate skills in computers network infrastructure, NAS, VLANs, Firewall, and VPNs
+- intermediate experience using Linux for corporate sharing files 
+- managing access to confidential files
+- experience in setting up and configuring NextCloud platform using on-site server
+- intermediate skills in configuration of OPNsense firewall (vLANs, software LANs, VPNs, DHCP, SSL)
+## Programming and Script languages
+•	coding experience in programming languages C and C++
+•	intermediate knowledge of HTML, CSS, and MySQL/MariaDB
+•	comfortable with configuring and customizing WordPress
+•	experience in writing script files for configuring computer systems
+## Google Workplace Suite
+•	administration of users and cloud storage drives
+•	defining access policies for Chromebook OS using Google Enterprise device management
+•	set-up and use of Google Analytics to gather information about website visitors
+## Project Management
+•	use of flow-charts for visualizing and optimizing existing processes
+•	use of GANT charts for scheduling financial resources 
+## Accounting and Payroll
+•	preparation of cash budgets on a weekly, monthly, and quarterly basis
+•	scheduling and allocating financial resources to meet operating objectives
+•	bank account reconciliation with large volume of transactions
+•	consistent and systematic coding and posting of accounting entries
+•	payroll run, year-end reconciliation, ROE, T4 slips and T4 Summary
+
+
 #### WORK EXPERIENCE
 ##### CEGEP Professor, Electronics Program		Jan 2023 - Present
 CEGEP Heritage College, Gatineau (QC)
@@ -19,7 +58,7 @@ CEGEP Heritage College, Gatineau (QC)
 - updated course outlines
 - engage students motivation to foster learning environment
 - treat students with respect and support
-- motivating students to challange themselves when learning new concepts
+- motivating students to challenge themselves when learning new concepts
 - monitor students learning progress to be proactive in ensuring students progess
 
 
@@ -29,13 +68,13 @@ United Edge Structural Components, Smiths Falls (ON)
 - presented operating highlights to a General Manager
 - provided advice on managing finances and steering operations goals 
 - conducted training sessions on cash flow planning
-- planned, maintenaned and executed accounting operations
+- planned, maintained and executed accounting operations
 - lead the month-end process ensuring all deadlines were met using QuickBooks Online Workpapers module
 - prepared year-end adjusting journal entries
 - prepared weekly budget and variance analysis report
 - monitored progress of meeting annual targets
 - implemented tighter financial controls over accounts receivable and payable
-- conducted soft audits of accounting records to ensure proper documentation and tranperancy
+- conducted soft audits of accounting records to ensure proper documentation and transparency
 - tracked project direct and indirect costs using QuickBooks Online Project module
 - preparing project progress and conversion cost reports
 - compiling financial statements
@@ -46,7 +85,7 @@ United Edge Structural Components, Smiths Falls (ON)
 - reconcile WSIB, CRA HST and Payroll account transactions with General Ledger entries
 - provide financial and statistical analysis, reports, advice, and recommendations to the Manager on a weekly basis and in a timely and accurate manner
 - develop reporting standards, emphasizing key financial and non-financial metrics to inform decision making
-- validate and analyze project financials
+- validate and analyze project financial progress
 - evaluate systems and controls to ensure reporting of accurate, complete, and timely financial information that accounts for the project funds
 - conduct finance briefing
 - calculating regular pay and benefit entitlements
