@@ -31,35 +31,41 @@
 - experience in setting up and configuring NextCloud platform using on-site server
 - intermediate skills in configuration of OPNsense firewall (vLANs, software LANs, VPNs, DHCP, SSL)
 ##### Programming and Script languages
-•	coding experience in programming languages C and C++
-•	intermediate knowledge of HTML, CSS, and MySQL/MariaDB
-•	comfortable with configuring and customizing WordPress
-•	experience in writing script files for configuring computer systems
+- coding experience in programming languages C and C++
+- intermediate knowledge of HTML, CSS, and MySQL/MariaDB
+- comfortable with configuring and customizing WordPress
+- experience in writing script files for configuring computer systems
 ##### Google Workplace Suite
-•	administration of users and cloud storage drives
-•	defining access policies for Chromebook OS using Google Enterprise device management
-•	set-up and use of Google Analytics to gather information about website visitors
+- administration of users and cloud storage drives
+- defining access policies for Chromebook OS using Google Enterprise device management
+- set-up and use of Google Analytics to gather information about website visitors
 ##### Project Management
-•	use of flow-charts for visualizing and optimizing existing processes
-•	use of GANT charts for scheduling financial resources 
+- use of flow-charts for visualizing and optimizing existing processes
+- use of GANT charts for scheduling financial resources 
 ##### Accounting and Payroll
-•	preparation of cash budgets on a weekly, monthly, and quarterly basis
-•	scheduling and allocating financial resources to meet operating objectives
-•	bank account reconciliation with large volume of transactions
-•	consistent and systematic coding and posting of accounting entries
-•	payroll run, year-end reconciliation, ROE, T4 slips and T4 Summary
+- preparation of cash budgets on a weekly, monthly, and quarterly basis
+- scheduling and allocating financial resources to meet operating objectives
+- bank account reconciliation with large volume of transactions
+- consistent and systematic coding and posting of accounting entries
+- payroll run, year-end reconciliation, ROE, T4 slips and T4 Summary
 
 
 #### WORK EXPERIENCE
-##### CEGEP Professor, Electronics Program		Jan 2023 - Present
+##### Professor, Electronics and Information Technology Program		Jan 2023 - Present
 CEGEP Heritage College, Gatineau (QC)
+TEACHING
+- teaching first and final year students in Accounting, Electronics and Computer Networks classes
+- ensuring students’ compliance with academic integrity
+PROGRAM REVISION
+- Re-designed Computer Networks third-year classes
+
 - teaching diversified mix of students
 - keep course material current to match the latest trends and technologies
 - updated course outlines
 - engage students motivation to foster learning environment
 - treat students with respect and support
 - motivating students to challenge themselves when learning new concepts
-- monitor students learning progress to be proactive in ensuring students progess
+- monitor students learning progress to be proactive in ensuring students progress
 
 
 ##### Accountant / Controller		Aug 2020 - Jul 2023
