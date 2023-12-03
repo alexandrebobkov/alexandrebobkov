@@ -52,7 +52,7 @@
 ### WORK EXPERIENCE
 #### Professor, Electronics and Information Technology Program		Jan 2023 - Present
 CEGEP Heritage College, Gatineau (QC)
-###### TEACHING
+###### Teaching
 - teaching first and final year students in Accounting, Electronics and Computer Networks classes
 - ensuring students’ compliance with academic integrit- teaching diversified mix of students
 - keep course material current to match the latest trends and technologies
@@ -61,15 +61,34 @@ CEGEP Heritage College, Gatineau (QC)
 - treat students with respect and support
 - motivating students to challenge themselves when learning new concepts
 - monitor students learning progress to be proactive in ensuring students progress
-###### PROGRAM REVISION
+###### Program Revision
 - assisted with redesigning Computer Networks third-year classes
 
 #### Accountant / Controller		Aug 2020 - Jul 2023
 United Edge Structural Components, Smiths Falls (ON)
-###### BOARD OF DIRECTORS ADVISER
+###### Financial Advisor to Board of Directors
 - advised on the possible uses of operating funds and setting payments priorities
 - interpreting financial reports for projections and decision-making purposes
 - conducting short training session on cash flow planning and budgeting
+###### Commercial Banking
+- experience with registering, setting-up and using the commercial banking systems such as Evalon, Square, TelPay and Scotiabank Connect
+###### Accounting, Financial Reporting and Compliance
+- responsible for performing or assisting in the planning, maintenance and execution of accounting operation
+- lead the month-end process ensuring all deadlines are met
+- preparing year-end adjusting journal entries
+- prepare weekly budget/variance report
+- prepare annual budget and monitor progress
+- oversee cash flow and cost control measures: accounts receivable and payable, reconciliations, general ledger entries examination, etc.
+- conduct soft audits of accounting records to ensure fair representation of financial reports
+- tracking of project direct and indirect cost
+- preparing project progress and conversion cost reports
+- compiling financial statements
+- implement, set up and maintain accounting sub-systems
+- develop and maintain internal control procedures
+- supervise office administrative technicians
+- year-end auditing
+- reconcile WSIB, CRA HST and Payroll account transactions with General Ledger entries
+
 
 - compiled financial reports on a weekly basis for a decision-making purposes
 - presented operating highlights to a General Manager
