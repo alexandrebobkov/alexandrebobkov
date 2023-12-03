@@ -162,21 +162,31 @@ United Edge Structural Components, Smiths Falls (ON)
 - process paycheques and source deduction remittances
 - set-up accounting software to comply with payroll procedures and policies
 
-#### Full-charge Bookkeeper		2013 - 2014
+#### Full-charge Bookkeeper		Jan 2013 - Dec 2015
 Social Research and Demonstration Corporation, Ottawa (ON)
-- Increased the efficiency of posting source documents process
-- Brought consistency in the referencing, and posting of the journal entries
-- Maintained the documents filing system in an organized manner
-- Conscientiously fulfilled the assigned tasks during the work overload
+###### Accounts Payable
+- increased the efficiency of posting source documents process
+- input of coded source documents into accounting system
+- issued employee travel reimbursements cheques
+###### Bookkeeping
+- brought consistency in the referencing, and posting of the journal entries
+- reconciliation of checking and credit card bank accounts
+- filing source documents in organized manner
+- allocation of overhead costs among projects
+- reconciliation of travel reimbursement payments made to employees
+- maintained the documents filing system in an organized manner
+###### Payroll
+- processed and allocated employees insurance premiums
+- allocated scientists hours among research 
 
-#### Assistant to Volunteers Coordinator	2015 - 2016
+#### Assistant to Volunteers Coordinator	May 2015 - Jun 2016
 SFUO Bike Coop Vélo, Ottawa (ON)
 - Boosted volunteers satisfaction by rationalizing the record-keeping procedures
 - Loyally worked hard to improve the quality of SFUO Bike Coop service
 - Introduced and implemented the stewardship of bicycle parts inventory
 - Increased volunteers motivation by officially recognizing their contributions
 
-#### General Ledger Accountant	2007 - 2015
+#### General Ledger Accountant	May 2007 - Jan 2013
 Self-employed, Ottawa (ON)
 - Worked hard to ensure clients comply with income tax reporting requirements
 - Helped business owners assess business performance by preparing managerial statements
@@ -187,11 +197,26 @@ Self-employed, Ottawa (ON)
 SFUO Bike Coop Vélo, Ottawa (ON)
 - Improved the quality and reliability of delivered services
 
-#### Tax Clinic Volunteer		April 2013
+#### CRA Income Tax & Benefits Tax Clinic Volunteer		Apr 2013
 Somerset West Community Health Centre, Ottawa (ON)
 - Helped individuals prepare tax returns in order for them to obtain social assistance
 
+#### CRA Income Tax & Benefits Tax Clinic Volunteer		Feb 2019 - Present
+CRA CVITP, Ottawa (ON)
+- organized Free Income Tax Clinic at local community
+- coordinated work of volunteers preparing income tax and benefits returns
+- assisted dozens of people with preparing income tax and benefit returns
+
+
 ### EDUCATION
+#### Graduate Diploma in College Teaching   Fall 2023 - Present
+Sherbrooke University, Sherbrooke (QC)
+- College course design
+
+#### Payroll Practitioner   Winter 2022 2022 - Present
+National Payroll Institute 
+- Payroll compliance and Advanced payroll
+
 #### Master's in Business Management 2016 - 2017
 John Molson School of Business
 Concordia University, Montreal (QC)
