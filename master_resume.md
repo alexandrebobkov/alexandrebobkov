@@ -53,12 +53,11 @@
 ### WORK EXPERIENCE
 ##### Professor, Electronics and Information Technology Program		Jan 2023 - Present
 CEGEP Heritage College, Gatineau (QC)
-TEACHING
+##### TEACHING
 - teaching first and final year students in Accounting, Electronics and Computer Networks classes
 - ensuring students’ compliance with academic integrity
-PROGRAM REVISION
+##### PROGRAM REVISION
 - Re-designed Computer Networks third-year classes
-
 - teaching diversified mix of students
 - keep course material current to match the latest trends and technologies
 - updated course outlines
