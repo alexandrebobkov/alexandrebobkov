@@ -72,6 +72,8 @@
   <li><a href="https://github.com/alexandrebobkov/ESP32-FileServer-ESP-IDF">⚡ESP32 small NAS</a></li>  
 </ul>
 
+- 🔭 I’m currently working on ...
+
 <!-- ### 👋
 assets/network-diagram-001.png
 
