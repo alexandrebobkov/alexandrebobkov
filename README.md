@@ -69,10 +69,9 @@
 <h3>Fun IoT Gadgets</h3>
 <ul>
   <li><a href="https://github.com/alexandrebobkov/dotfiles_e403sa">Linux config .dotfiles</a></li>
-  <li><a href="https://github.com/alexandrebobkov/ESP32-FileServer-ESP-IDF">⚡ESP32 small NAS</a></li>  
+  <li><a href="https://github.com/alexandrebobkov/ESP32-FileServer-ESP-IDF">⚡ Favorite project: ESP32 small NAS</a></li>  
+  <li>🔭 I’m currently working on reading desk lamp powered by Espressif Rainmaker ESP32S2</li>
 </ul>
-
-- 🔭 I’m currently working on ...
 
 <!-- ### 👋
 assets/network-diagram-001.png
