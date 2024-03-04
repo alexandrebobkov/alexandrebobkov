@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/alexandrebobkov/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://activcount.ca" target="_blank">
+  <a href="https://www.activcount.ca" target="_blank">
     <img src="https://img.shields.io/badge/web-orange?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
   </a>
   <a href="https://coding.activcount.info/" target="_blank">
