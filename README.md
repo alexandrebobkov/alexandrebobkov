@@ -37,6 +37,10 @@
 ---
 -📫 Shoot me an e-mail at: alexander@activcount.ca
 
+<h2>ESP32-C3 DevBoard Power Supply Combo</h2>
+
+<img alt="ESP32-Node PCB" src="https://alexandrebobkov.github.io/ESP-Nodes/assets/ESP32-C3-BreadBoardAdapter-001.jpg" width="80%"/>
+
 <h2>Synergy of Office Networks VPN</h2>
   <i>When devices that form an office network just work in sync ... that's down to a well planned network.</i>
   <div align="left" style="display:inline-block; float:left;">
@@ -68,6 +72,7 @@
 <h2>Post-Setup Network Diagnostics</h2>
 <h3>Fun IoT Gadgets</h3>
 <ul>
+  <li>🔭 I’m currently working on ESP32-C3 DevBoard Power Supply Combo</li>
   <li><a href="https://github.com/alexandrebobkov/dotfiles_e403sa">Linux config .dotfiles</a></li>
   <li><a href="https://github.com/alexandrebobkov/ESP32-FileServer-ESP-IDF">⚡ Favorite project: ESP32 small NAS</a></li>  
   <li>🔭 I’m currently working on reading desk lamp powered by Espressif Rainmaker ESP32S2</li>
@@ -81,7 +86,7 @@ assets/network-diagram-001.png
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... ESP32-C3 DevBoard Power Supply Combo
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
