@@ -37,7 +37,7 @@
 ---
 -📫 Shoot me an e-mail at: alexander@activcount.ca
 
-<h2>ESP32-C3 DevBoard Power Supply Combo</h2>
+<h2><a href="https://github.com/alexandrebobkov/ESP32-C3_Breadboard-Adapter" target="_blank">ESP32-C3 DevBoard Power Supply Combo</a></h2>
 
 <img alt="ESP32-Node PCB" src="https://alexandrebobkov.github.io/ESP-Nodes/assets/ESP32-C3-BreadBoardAdapter-001.jpg" width="80%"/>
 
