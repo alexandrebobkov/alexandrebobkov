@@ -46,7 +46,7 @@
 <img alt="ESP32-S3 Uno PCB" src="https://github.com/alexandrebobkov/KiCAD-Projects/blob/main/ESP32-Uno/ESP32-Uno-Board-v2/ESP32-Uno-Board-v2.png" width="80%"/>
 
 <h2><a href="https://github.com/alexandrebobkov/ESP32-C3_Sensors-Node" target="_blank">ESP32-C3 Sensors Node</a></h2>
-<img alt="ESP32-C3 sensors pcd" src="" width="80%"/>
+<img alt="ESP32-C3 sensors pcd" src="https://github.com/alexandrebobkov/ESP32-C3_Sensors-Node/blob/main/assets/ESP32-C3-WROOM-Node-Temperature.png" width="80%"/>
 
 <h2>Synergy of Office Networks VPN</h2>
   <i>When devices that form an office network just work in sync ... that's down to a well planned network.</i>
