@@ -1,4 +1,4 @@
-<h1 align="center">COMPETITIVE EDGE OF ACCOUNTING & IT</h1>
+<h1 align="center">Alex B</h1>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/alexandrebobkov/" target="_blank">
