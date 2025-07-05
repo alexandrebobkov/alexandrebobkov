@@ -38,6 +38,9 @@
 -📫 Shoot me an e-mail at: alexander@activcount.ca
 
 <h2><a href="https://github.com/alexandrebobkov/ESP-Nodes/blob/main/ESP-IDF_Robot/README.md" target="_blank">RC Car powered by ESP32-C3 BreadBoard</a></h2>
+
+<img alt="ESP32=C3 RC Car" src="https://github.com/alexandrebobkov/ESP-Nodes/blob/main/ESP-IDF_Robot/assets/ESP-IDF_Robot.jpg" width="80%"/>
+
 <img alt="ESP32-Node PCB" src="https://github.com/alexandrebobkov/ESP-Nodes/blob/main/ESP-IDF_Robot/assets/chassi-002.jpg" width="80%"/>
 
 <h2><a href="https://github.com/alexandrebobkov/ESP32-C3_Breadboard-Adapter" target="_blank">ESP32-C3 BreadBoard Power Supply Combo</a></h2>
